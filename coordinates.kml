@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>Calle 2: P 8 D</name>
+            <Point id="2">
+                <coordinates>-84.9981983333333,10.515365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Calle 2: P 7 D</name>
+            <Point id="4">
+                <coordinates>-84.99789,10.5154133333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Calle 2: P 6 D</name>
+            <Point id="6">
+                <coordinates>-84.9977816666667,10.51531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Calle 2: P 5 D</name>
+            <Point id="8">
+                <coordinates>-84.9975716666667,10.51512,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Calle 2: P 3 D</name>
+            <Point id="10">
+                <coordinates>-84.9970983333333,10.5145916666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Calle 2: P 4 D</name>
+            <Point id="12">
+                <coordinates>-84.9975633333333,10.51474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Calle 2: P 2 D</name>
+            <Point id="14">
+                <coordinates>-84.9966916666667,10.5144616666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Calle 2: P 1 D</name>
+            <Point id="16">
+                <coordinates>-84.9965516666667,10.5144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Calle 2: P 9 D</name>
+            <Point id="18">
+                <coordinates>-84.99657,10.5140083333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Calle 2: P 10 D</name>
+            <Point id="20">
+                <coordinates>-84.9961533333333,10.5135083333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Calle 2: P Inicial</name>
+            <Point id="22">
+                <coordinates>-84.9958666666667,10.51334,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
